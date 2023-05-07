@@ -22,7 +22,7 @@
     "moment": "^2.29.4",
     "query-string": "^8.1.0",
     "react": "18.2.0",
-    "react-native": "0.71.6",
+    "react-native": "0.71.7",
     "react-native-credit-card-input": "^0.4.1",
     "react-native-datepicker": "^1.7.2",
     "react-native-elements": "^3.4.3",
